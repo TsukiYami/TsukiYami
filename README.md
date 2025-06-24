@@ -1,60 +1,59 @@
-# 🌸 About Me
+# About Me
 
-Hey there! I'm **Felix**, but most people know me as **TsukiYami** 🌙✨  
-I'm **20 years old**, born on **May 30, 2005**, and I come from beautiful **Germany 🇩🇪**.
-
-I'm super passionate about tech, creativity, and bringing cool ideas to life! 💡💻
+Hi, I'm **Felix**, also known as **TsukiYami** 👾  
+I'm a **20-year-old** aspiring developer from **Germany**, born on **May 30, 2005**.
 
 ---
 
-## 📚 Currently Learning
-- 🧠 **C#** – making things work behind the scenes
-- 🌐 **Networking** – connecting all the digital dots
+## 💻 What I'm Learning
+- **C#** – diving deep into software development
+- **Networking** – understanding how systems communicate
 
-## 🔮 Planning to Learn
-- ⚙️ **C++** – power and performance!
-- 🐍 **Python** – automation, AI, and fun scripts
-- 🛡️ **Cyber Security** – hack me not!
-- 🈶 **Japanese** – because I love the culture & language 🇯🇵
-
----
-
-## 🛠️ Projects I'm Working On
-*(Coming soon! Working on some exciting stuff – stay tuned!)*
+## 📚 What I Plan to Learn
+- **C++** – for performance-critical applications
+- **Python** – for scripting, automation, and data-related tasks
+- **Cyber Security** – to build and protect modern systems
+- **Japanese** – to better connect with culture, media, and language
 
 ---
 
-## 🎯 My Goals
-- 👨‍💻 Become an awesome **Backend Developer**
-- 🐞 Be a skilled **Bug Hunter** (ethical, of course!)
+## 🚧 Projects I Work(ed) On
+*Coming soon – updating this section with my past and current projects!*
 
 ---
 
-## 🌍 Languages I Speak
-- 🇩🇪 **German** – native speaker  
-- 🇬🇧 **English** – fluent  
-- 🇯🇵 **Japanese** – on my learning list!
+## 🎯 Goals
+- Become a **Backend Developer** focusing on scalable and secure systems  
+- Develop skills as a **Bug Hunter** in cybersecurity and responsible disclosure
 
 ---
 
-## 💖 Interests
-- 🎮 **Gaming** – strategy, RPGs, and co-op fun
-- 🎧 **Music** – from lo-fi to metal
-- 🎬 **Anime** – big fan of the art & stories
-- 🏃‍♂️ **Sports** – staying active is important!
-- 🍰 **Baking** – sweet code, sweeter cookies!
+## 🌐 Languages
+- **German** (native)  
+- **English** (fluent)  
+- **Japanese** (planning to learn)
 
 ---
 
-## 🌐 Online Presence
-- 💬 **Discord:** `tsukiyami.`
-- 🐦 **Twitter/X:** [@TsukiYamiGaming](https://twitter.com/TsukiYamiGaming)
+## 🎮 Interests
+- **Gaming**
+- **Music**
+- **Anime**
+- **Sports**
+- **Baking**
 
 ---
 
-## 💡 My Dev Motto
-> **Learn, adapt, improve**  
-> **Turn ideas into reality 💫**
+## 🌍 Online Presence
+- **Discord:** `tsukiyami.`
+- **Twitter/X:** [@TsukiYamiGaming](https://twitter.com/TsukiYamiGaming)
+
+---
+
+## 💡 Dev Motto
+**Learn, adapt, improve**  
+**Turn ideas into reality**
+
 
 
 
