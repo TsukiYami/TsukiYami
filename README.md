@@ -18,8 +18,8 @@ I'm a **20-year-old** aspiring developer from **Germany**, born on **May 30, 200
 ---
 
 ## 🚧 Projects I Work(ed) On
-- **[Mittelstufenprojekt]** (https://github.com/Reduzer/Mittelstufenprojekt)
-- **[ToDo-List (Backend)]** (https://github.com/Reduzer/ToDo-Liste)
+- **[@Mittelstufenprojekt]** (https://github.com/Reduzer/Mittelstufenprojekt)
+- **[@ToDo-List (Backend)]** (https://github.com/Reduzer/ToDo-Liste)
 - **More projects in work**
 
 ---
