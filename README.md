@@ -8,9 +8,9 @@ I'm a **20-year-old** aspiring developer from **Germany**, born on **May 30, 200
 ## 💻 What I'm Learning
 - **C#** – diving deep into software development
 - **Networking** – understanding how systems communicate
+- **C++** – for performance-critical applications
 
 ## 📚 What I Plan to Learn
-- **C++** – for performance-critical applications
 - **Python** – for scripting, automation, and data-related tasks
 - **Cyber Security** – to build and protect modern systems
 - **Japanese** – to better connect with culture, media, and language
